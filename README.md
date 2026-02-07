@@ -21,6 +21,10 @@ This project includes:
 4. **Model Training** - Linear Regression for price prediction
 5. **Web Application** - Streamlit app for real-time predictions
 
+### 🖼️ App Preview
+
+![Car Price Prediction App](images/carPricePridiction.PNG)
+
 ## 🔧 Prerequisites
 
 - **Python 3.8 or higher** - [Download here](https://www.python.org/downloads/)
@@ -89,6 +93,13 @@ The application will open at `http://localhost:8501` and display:
 
 To stop the application, press `Ctrl+C` in the terminal.
 
+### 🖼️ Application Screenshots
+
+
+
+#### Model Results
+![Model Results](images/Screenshot%20(553).png)
+
 ### Option 2: Run the Jupyter Notebook
 
 ```bash
@@ -121,6 +132,11 @@ The notebook contains the complete machine learning pipeline:
    - Transmission (automatic, manual)
 
 3. **Click "Predict"** to get the estimated car price
+
+#### Example Prediction Flow
+![Input Specifications](images/Screenshot%20(554).png)
+
+![Prediction Result](images/Screenshot%20(555).png)
 
 ### Using the Notebook
 
